@@ -1,2 +1,2 @@
 # docs
-All the open community documents shared here
+All the andrometocs company's open community documents shared here
